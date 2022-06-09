@@ -26,7 +26,8 @@ Shaurmados - сервис для заказа шаурмы.
 
 UI может выглядеть следующим образом:
 
-![image](https://sun9-72.userapi.com/s/v1/if2/Ol3lCy1O2edWZ2vMJfAg-boEsfs4UmZ9mWXDVh8NtxCSUzKGm8yt6kRnd9Sym1TJmYt8S4rQmPprZoqrMvV7qvR7.jpg?size=2560x1303&quality=96&type=album)
+![image](https://user-images.githubusercontent.com/90835505/172934601-547bd201-13a3-499b-afa7-e83aa5fbc6e9.png)
+
 
 ### <a name="ref3"></a> 3. Архитектура проекта
 
